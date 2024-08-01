@@ -13,11 +13,6 @@
           <br><br>
           🌱 I’m currently learning...🌿
           <br><br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://louiemok.tistory.com/">
-            <img src="https://img.shields.io/badge/Blog-eb531f?style=flat&logo=tistory&logoColor=ffffff" />
-          </a>
-          <br><br>
         </td>
         <td>
           <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=ffffff" />
